@@ -23,7 +23,7 @@ This project is a Streamlit web application that generates structured reports us
 ```
 
 ## Installation
-To install the MultiToolAgent project, follow these steps:
+To install the AgenticReportGenerator project, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/JSM2512/AgenticReportGenerator.git
