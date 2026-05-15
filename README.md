@@ -23,10 +23,10 @@ This project is a Streamlit web application that generates structured reports us
 ```
 
 ## Installation
-To install the AgenticReportGenerator project, follow these steps:
+To install the MultiAgentReportBuilder project, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/JSM2512/AgenticReportGenerator.git
+   git clone https://github.com/JSM2512/MultiAgentReportBuilder.git
    ```
 2. Navigate into the project directory with environment creation:
    ```bash
